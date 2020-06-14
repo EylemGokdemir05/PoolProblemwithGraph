@@ -1,0 +1,10 @@
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\bin\Debug\PoolProblem.exe.config
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\bin\Debug\PoolProblem.exe
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\bin\Debug\PoolProblem.pdb
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.csprojAssemblyReference.cache
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.Form1.resources
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.Properties.Resources.resources
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.csproj.GenerateResource.cache
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.exe
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.pdb
+C:\Users\Eylem\source\repos\PoolProblem\PoolProblem\obj\Debug\PoolProblem.Form2.resources
